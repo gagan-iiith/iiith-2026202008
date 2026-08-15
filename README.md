@@ -19,4 +19,11 @@ Cleaning Build Files
 
 Remove generated executable:
 
-rm app	
+rm app
+
+## Contributing
+Fork the repository.
+Create a new branch.
+Commit your changes.
+Push the branch.
+Open a Pull Request.
