@@ -40,3 +40,11 @@ GCC/G++ Compiler
 Git
 Make (optional)
 Visual Studio Code or any preferred IDE
+
+## Development Workflow
+Create a new feature branch.
+Implement changes.
+Compile and test the application.
+Commit changes with meaningful messages.
+Push the branch to GitHub.
+Create a pull request for review.
