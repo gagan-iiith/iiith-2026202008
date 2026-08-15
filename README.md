@@ -27,3 +27,7 @@ Create a new branch.
 Commit your changes.
 Push the branch.
 Open a Pull Request.
+
+## License
+
+This project is provided for educational purposes. Feel free to modify and use it as needed.
