@@ -31,3 +31,12 @@ Open a Pull Request.
 ## License
 
 This project is provided for educational purposes. Feel free to modify and use it as needed.
+
+## Requirements
+
+The following software must be installed:
+
+GCC/G++ Compiler
+Git
+Make (optional)
+Visual Studio Code or any preferred IDE
