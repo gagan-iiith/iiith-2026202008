@@ -78,3 +78,5 @@ Logging framework
 Configuration file support
 Continuous Integration (CI) pipeline
 Docker support
+## Dashboard Module
+Shows enrolled courses, grades, and notifications.
