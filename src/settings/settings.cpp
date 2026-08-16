@@ -4,3 +4,7 @@ struct UserSettings {
     std::string theme;
     std::string language;
 };
+
+UserSettings defaultSettings() {
+    return UserSettings{true, "light", "en"};
+}
