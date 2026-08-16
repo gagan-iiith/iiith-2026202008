@@ -78,3 +78,5 @@ Logging framework
 Configuration file support
 Continuous Integration (CI) pipeline
 Docker support
+## Profile Module
+Manages user profile data and avatars.
