@@ -86,3 +86,5 @@ Shows enrolled courses, grades, and notifications.
 Manages user profile data and avatars.
 ## Login Module
 Handles credential validation, lockouts, and session tokens.
+## Roadmap
+- CSV export for grades (in progress)
