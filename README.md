@@ -88,3 +88,8 @@ Manages user profile data and avatars.
 Handles credential validation, lockouts, and session tokens.
 ## Roadmap
 - CSV export for grades (in progress)
+## Running the App
+```bash
+npm start
+```
+The app runs on http://localhost:3000 by default.
