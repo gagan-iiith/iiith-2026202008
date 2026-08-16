@@ -1,1 +1,1 @@
-important work
+#define VERSION "1.0-A"
