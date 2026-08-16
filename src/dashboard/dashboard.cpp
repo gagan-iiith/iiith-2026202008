@@ -10,3 +10,8 @@ int calculateAverageGrade(const std::vector<int> &grades) {
     for (int g : grades) sum += g;
     return sum / static_cast<int>(grades.size());
 }
+
+// TODO: export grades to CSV — work in progress
+void exportGradesToCSV() {
+    // not finished yet
+}
