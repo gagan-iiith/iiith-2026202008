@@ -93,3 +93,7 @@ Handles credential validation, lockouts, and session tokens.
 npm start
 ```
 The app runs on http://localhost:3000 by default.
+## Project Structure
+- /src — application source code
+- /tests — unit and integration tests
+- /docs — additional documentation
