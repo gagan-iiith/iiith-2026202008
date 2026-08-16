@@ -1,7 +1,7 @@
 SSD Assignment 1
 
 ### Overview
-C++ project to demonstrate git commands and usage
+A student portal web app for managing courses, grades, and profiles.
 
 ### Build Instructions
 Compile the Project
